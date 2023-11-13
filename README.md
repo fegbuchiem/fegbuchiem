@@ -1,9 +1,9 @@
 <h1>Hi, I'm Felix! <br/><a href="https://github.com/fegbuchiem">Programmer</a>, <a href="https://www.linkedin.com/in/felix-egbuchiem-8847996a/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/Felixcybertube">YouTuber</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
--[FrontEnd Page of capridigitalmedia Website](https://github.com/fegbuchiem/capridigitalmedia-Assignment-Project)
--[A Shopping Cart](https://github.com/fegbuchiem/Shopping-Cart)
--[My To Do List](https://github.com/fegbuchiem/My-Todo-List-Project)
+-[FrontEnd Page of capridigitalmedia Website](https://github.com/fegbuchiem/capridigitalmedia-Assignment-Project),
+-[A Shopping Cart](https://github.com/fegbuchiem/Shopping-Cart),
+-[My To Do List](https://github.com/fegbuchiem/My-Todo-List-Project),
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
